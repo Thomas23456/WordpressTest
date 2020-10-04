@@ -1,0 +1,20 @@
+
+Nom de la BDD : wordpresstest
+
+Identifiant : root
+
+MDP : ''
+
+Adresse de la base : localhost
+
+Prefixe des tables : wp_
+
+/* ******************* */
+
+Titre du site : SiteWordpressTest
+
+Identifiant : toto
+
+MDP : totoWordpress
+
+Adresse de messsagerie : totolefou@gmail.com (factice)
